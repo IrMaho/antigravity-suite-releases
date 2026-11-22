@@ -6,7 +6,7 @@
 
 **همه ابزارهای ضروری Antigravity در یک فایل نصاب ساده — بدون نیاز به دانش فنی، بدون تنظیمات پیچیده، آماده استفاده در ۳۰ ثانیه!**
 
-[![Download Latest Release](https://img.shields.io/badge/⬇️_دانلود_نسخه_جدید_ویندوز-v2.1.8-6366F1?style=for-the-badge)](https://github.com/IrMaho/antigravity-suite-releases/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/⬇️_دانلود_نسخه_جدید_ویندوز-v2.1.9-6366F1?style=for-the-badge)](https://github.com/IrMaho/antigravity-suite-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Windows-10_%7C_11_(64--bit)-0078D6?style=for-the-badge&logo=windows)](#مشخصات-سیستم-مورد-نیاز)
 [![Privacy](https://img.shields.io/badge/حریم_خصوصی-کاملاً_پاک_و_امن-10B981?style=for-the-badge)](#امنیت-و-حریم-خصوصی)
 
@@ -16,7 +16,7 @@
 
 ## ⚡ نصب سریع (فقط ۳ قدم!)
 
-1. از صفحه **[دانلود آخرین نسخه (Releases)](https://github.com/IrMaho/antigravity-suite-releases/releases/latest)** فایل **`AntigravitySuite-Setup-v2.1.8.exe`** را دانلود کنید.
+1. از صفحه **[دانلود آخرین نسخه (Releases)](https://github.com/IrMaho/antigravity-suite-releases/releases/latest)** فایل **`AntigravitySuite-Setup-v2.1.9.exe`** را دانلود کنید.
 2. روی فایل دانلودشده دابل‌کلیک کنید و فقط دکمه‌های **Next ← Next ← Install** را بزنید (نیازی به نصب پایتون یا دسترسی Administrator هم ندارد!).
 3. تمام! تمام ابزارها، اصلاحات، راست‌چین فارسی، افزونه‌ها و هارنس فیکس به صورت خودکار نصب و فعال می‌شوند و میانبرها روی **دسکتاپ** و **منوی استارت** شما ساخته می‌شوند.
 
